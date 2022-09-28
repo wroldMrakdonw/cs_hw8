@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\sortRowsInMatrix\bin\Debug\net6.0\sortRowsInMatrix.exe
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\sortRowsInMatrix\bin\Debug\net6.0\sortRowsInMatrix.deps.json
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\sortRowsInMatrix\bin\Debug\net6.0\sortRowsInMatrix.runtimeconfig.json
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\sortRowsInMatrix\bin\Debug\net6.0\sortRowsInMatrix.dll
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\sortRowsInMatrix\bin\Debug\net6.0\sortRowsInMatrix.pdb
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\sortRowsInMatrix\obj\Debug\net6.0\sortRowsInMatrix.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\sortRowsInMatrix\obj\Debug\net6.0\sortRowsInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\sortRowsInMatrix\obj\Debug\net6.0\sortRowsInMatrix.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\sortRowsInMatrix\obj\Debug\net6.0\sortRowsInMatrix.AssemblyInfo.cs
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\sortRowsInMatrix\obj\Debug\net6.0\sortRowsInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\sortRowsInMatrix\obj\Debug\net6.0\sortRowsInMatrix.dll
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\sortRowsInMatrix\obj\Debug\net6.0\refint\sortRowsInMatrix.dll
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\sortRowsInMatrix\obj\Debug\net6.0\sortRowsInMatrix.pdb
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\sortRowsInMatrix\obj\Debug\net6.0\sortRowsInMatrix.genruntimeconfig.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\sortRowsInMatrix\obj\Debug\net6.0\ref\sortRowsInMatrix.dll

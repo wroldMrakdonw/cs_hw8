@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\minRowSum\obj\Debug\net6.0\minRowSum.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\minRowSum\obj\Debug\net6.0\minRowSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\minRowSum\obj\Debug\net6.0\minRowSum.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\minRowSum\obj\Debug\net6.0\minRowSum.AssemblyInfo.cs
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\minRowSum\obj\Debug\net6.0\minRowSum.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\minRowSum\bin\Debug\net6.0\minRowSum.exe
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\minRowSum\bin\Debug\net6.0\minRowSum.deps.json
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\minRowSum\bin\Debug\net6.0\minRowSum.runtimeconfig.json
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\minRowSum\bin\Debug\net6.0\minRowSum.dll
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\minRowSum\bin\Debug\net6.0\minRowSum.pdb
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\minRowSum\obj\Debug\net6.0\minRowSum.dll
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\minRowSum\obj\Debug\net6.0\refint\minRowSum.dll
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\minRowSum\obj\Debug\net6.0\minRowSum.pdb
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\minRowSum\obj\Debug\net6.0\minRowSum.genruntimeconfig.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\minRowSum\obj\Debug\net6.0\ref\minRowSum.dll

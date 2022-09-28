@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\matrixProcuct\bin\Debug\net6.0\matrixProcuct.exe
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\matrixProcuct\bin\Debug\net6.0\matrixProcuct.deps.json
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\matrixProcuct\bin\Debug\net6.0\matrixProcuct.runtimeconfig.json
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\matrixProcuct\bin\Debug\net6.0\matrixProcuct.dll
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\matrixProcuct\bin\Debug\net6.0\matrixProcuct.pdb
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\matrixProcuct\obj\Debug\net6.0\matrixProcuct.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\matrixProcuct\obj\Debug\net6.0\matrixProcuct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\matrixProcuct\obj\Debug\net6.0\matrixProcuct.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\matrixProcuct\obj\Debug\net6.0\matrixProcuct.AssemblyInfo.cs
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\matrixProcuct\obj\Debug\net6.0\matrixProcuct.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\matrixProcuct\obj\Debug\net6.0\matrixProcuct.dll
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\matrixProcuct\obj\Debug\net6.0\refint\matrixProcuct.dll
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\matrixProcuct\obj\Debug\net6.0\matrixProcuct.pdb
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\matrixProcuct\obj\Debug\net6.0\matrixProcuct.genruntimeconfig.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\matrixProcuct\obj\Debug\net6.0\ref\matrixProcuct.dll

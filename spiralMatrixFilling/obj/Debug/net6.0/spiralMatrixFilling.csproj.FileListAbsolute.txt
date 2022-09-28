@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\spiralMatrixFilling\obj\Debug\net6.0\spiralMatrixFilling.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\spiralMatrixFilling\obj\Debug\net6.0\spiralMatrixFilling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\spiralMatrixFilling\obj\Debug\net6.0\spiralMatrixFilling.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\spiralMatrixFilling\obj\Debug\net6.0\spiralMatrixFilling.AssemblyInfo.cs
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\spiralMatrixFilling\obj\Debug\net6.0\spiralMatrixFilling.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\spiralMatrixFilling\bin\Debug\net6.0\spiralMatrixFilling.exe
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\spiralMatrixFilling\bin\Debug\net6.0\spiralMatrixFilling.deps.json
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\spiralMatrixFilling\bin\Debug\net6.0\spiralMatrixFilling.runtimeconfig.json
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\spiralMatrixFilling\bin\Debug\net6.0\spiralMatrixFilling.dll
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\spiralMatrixFilling\bin\Debug\net6.0\spiralMatrixFilling.pdb
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\spiralMatrixFilling\obj\Debug\net6.0\spiralMatrixFilling.dll
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\spiralMatrixFilling\obj\Debug\net6.0\refint\spiralMatrixFilling.dll
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\spiralMatrixFilling\obj\Debug\net6.0\spiralMatrixFilling.pdb
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\spiralMatrixFilling\obj\Debug\net6.0\spiralMatrixFilling.genruntimeconfig.cache
+C:\Users\User\Desktop\GeekBrains\_programms\cs\sem_8\hw\spiralMatrixFilling\obj\Debug\net6.0\ref\spiralMatrixFilling.dll
